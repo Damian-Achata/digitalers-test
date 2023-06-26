@@ -1,6 +1,6 @@
 body{
-    color: white;
-    background-color: grey;
+    color: var(--colorText);
+    background-color: var(--backgroundColor);
 }
 
 p{
