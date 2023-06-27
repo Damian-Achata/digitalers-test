@@ -1,8 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&display=swap'); 
+
+
 body{
     color: var(--colorText);
     background-color: var(--backgroundColor);
+    font-family: 'Agdasima', sans-serif;
 }
 
 p{
     color: blueviolet;
+}
+
+.fontGoogle{
+    font-family: 'Dancing Script', cursive;
 }
